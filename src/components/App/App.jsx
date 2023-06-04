@@ -21,9 +21,9 @@ export const App = () => {
                             <Tab>
                                 <Text>Gallery</Text>
                             </Tab>
-                            {/* <Tab>
+                            <Tab>
                 <Text>Todos</Text>
-              </Tab> */}
+              </Tab>
                         </TabList>
 
                         <TabPanel>
